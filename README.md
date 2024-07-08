@@ -63,12 +63,3 @@ Project Link: [https://github.com/lavkushry/Nearme](https://github.com/lavkushry
 ---
 
 This README file provides a comprehensive overview of the NearMe project, including its key features, technical highlights, and instructions for getting started and contributing.
-
-Citations:
-[1] https://github.com/lavkushry/Nearme.git
-[2] https://github.com/OshApps/NearMe
-[3] https://www.justdial.com/Lucknow/Temples-in-Lavkush-Nagar/nct-10475644
-[4] https://github.com/topics/chatsh
-[5] https://github.com/bkvirendra/Nearme
-[6] https://lkshighschooljhansi.co.in
-[7] https://github.com/git
